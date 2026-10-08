@@ -16,12 +16,12 @@
 ### 🌐 Live Application
 
 > **Live Project:**  
-> `https://coursera-multimodal-intelligence-pl.vercel.app/`
+> https://coursera-multimodal-intelligence-pl.vercel.app/
 
 ### 🎥 Product Demo Video
 
 > **Demo Video:**  
-> `https://drive.google.com/file/d/1zMS4HWYuXRFo3YML37sVrjkw8_y9CDAg/view?usp=sharing`
+> https://drive.google.com/file/d/1zMS4HWYuXRFo3YML37sVrjkw8_y9CDAg/view?usp=sharing
 
 The video demonstrates the complete workflow, including:
 
