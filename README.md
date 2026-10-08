@@ -1280,11 +1280,11 @@ The IBM Data Science Professional Certificate archive was used as the validation
 
 ### 🌐 Live Application
 
-`PASTE_YOUR_LIVE_PROJECT_URL_HERE`
+https://coursera-multimodal-intelligence-pl.vercel.app/
 
 ### 🎥 Demo Video
 
-`PASTE_YOUR_VIDEO_URL_HERE`
+https://drive.google.com/file/d/1zMS4HWYuXRFo3YML37sVrjkw8_y9CDAg/view?usp=sharing
 
 ### 💻 GitHub Repository
 
